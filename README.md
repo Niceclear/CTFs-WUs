@@ -4,6 +4,14 @@ Here, you can find the writeups of the CTF in which I participated.
 
 ## Ranking
 
+### 2024 :
+
+- GCC CTF : [24](https://ctftime.org/event/2251/) / 235 (glob://al_elite)
+- FCSC : 
+  - Senior : [80](https://github.com/Niceclear/CTF-Writeups/blob/main/Scoreboards/2024/SENIOR-FCSC-2024.png) / 598 (Niceclear)
+  - All : [195](https://hackropole.fr/fr/ranking/fcsc2024/) / 1000+ (Niceclear)
+- BreizhCTF : [27](https://raw.githubusercontent.com/BreizhCTF/breizhctf-2024/main/doc/full-scoreboard.png) / 118 (glob://al_elite)  
+
 ### 2023 :
 
 - BreizhCTF : [11](https://raw.githubusercontent.com/BreizhCTF/breizhctf-2023/main/doc/images/full-scoreboard-2520px.jpg) / 117 (glob://al_elite)  
